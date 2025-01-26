@@ -1,8 +1,8 @@
-# Práctica 4.2: Programación orientada a objetos I
+# Práctica 4.3: Programación orientada a objetos II
 
 Apóyate en los siguientes recursos para realizar la práctica:
 
-[U4: 2. POO I](https://revilofe.github.io/section1/u04/practica/PROG-U4.-Practica002/)
+[U4: 3. POO II](https://revilofe.github.io/section1/u04/practica/PROG-U4.-Practica003/)
 
 > ATENCIÓN: DURANTE LA DOCUMENTACIÓN DE LA PRÁCTICA, ELIMINA TODO AQUELLO QUE NO APLIQUE. PEEEEEEEROOOOOOO, ANTES DE ELIMINAR ALGO, PIENSA SI APLICA O NO.
 
